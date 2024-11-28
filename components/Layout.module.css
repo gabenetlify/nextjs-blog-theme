@@ -15,7 +15,7 @@
   /* mix-blend-mode: normal; */
   height: 800px;
   height: 80vh;
-  max-width: 1400px;
+  width: 1400px;
   width: 70vw;
   width: 100%;
   filter: blur(44px);
@@ -38,7 +38,7 @@
     radial-gradient(at 76% 46%, var(--color-gradient-1) 0, transparent 50%);
   /* mix-blend-mode: normal; */
   height: 600px;
-  max-width: 900px;
+  width: 900px;
   width: 55vw;
   width: 100%;
   filter: blur(44px);
